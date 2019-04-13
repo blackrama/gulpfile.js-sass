@@ -1,5 +1,5 @@
 # gulpfile.js-sass
-gulpfile.js from sass
+gulpfile.js from sass pug js
 Steps
 1. create dir "myproject" or another name
 2. change this dir on console (cd "yourlocation"./myproject)
