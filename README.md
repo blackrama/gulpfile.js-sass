@@ -21,6 +21,6 @@ Steps
 19. npm run dev
 20. work!
 
-#Optional
+# Optional
 1. npm run minbuild
 2. npm run fullbuild
