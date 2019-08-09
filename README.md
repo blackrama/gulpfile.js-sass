@@ -1,4 +1,4 @@
-# gulpfile.js-sass
+# gulpfile for gulp 4
 gulpfile.js from sass pug js
 Steps
 1. create dir "myproject" or another name
