@@ -1,4 +1,4 @@
-# gulpfile for gulp 4
+# gulpfile for gulp 4 (this assembly does not require a global gulp installation)
 gulpfile.js from sass pug js
 Steps
 1. create dir "myproject" or another name
