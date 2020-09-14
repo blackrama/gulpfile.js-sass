@@ -72,12 +72,13 @@ function watch(){
 	            baseDir: "./dist/",
 	        },
 	         tunnel: false,
-	         tunnel: "pekur"
+	        //  tunnel: "pekur"
 	    });
 	}
 	
 
 	gulp.watch('./app/css/**/*.scss', styles);
+	gulp.watch('./app/img/**/*', img);
 	gulp.watch('./app/*.pug', html);
 	gulp.watch('./app/js/**/*.js',js)
 	
